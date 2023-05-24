@@ -1,0 +1,2 @@
+# 24thmay2023typescript_Intro
+24thmay2023typescript_Intro
